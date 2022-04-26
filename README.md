@@ -1,2 +1,2 @@
-# Games_Store
+# Game_Store
 Homepage of a game store focused on selling indie games.
